@@ -111,7 +111,12 @@ h3 {
 .contact-info li {
   list-style-type: none;
   line-height: 40px;
-  padding: 0;
+  padding: 0;	
+  margin-left: 0;
+}
+
+.contact-info ul {
+  padding-left: 0;
 }
 
 /* footer */
